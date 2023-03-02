@@ -1,0 +1,17 @@
+
+public class Valjak extends Krug {
+	private double m_Height;
+	
+	public Valjak() {
+		super();
+	}
+	@Override
+	public double getPovrsina() {
+		
+	}
+	@Override
+	public double getObim() {
+		
+	}
+	
+}

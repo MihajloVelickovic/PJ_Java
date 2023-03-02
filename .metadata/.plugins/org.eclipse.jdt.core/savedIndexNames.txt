@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/home/mihajlo/faks/pj/java/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+3042119779.index
+2098997896.index

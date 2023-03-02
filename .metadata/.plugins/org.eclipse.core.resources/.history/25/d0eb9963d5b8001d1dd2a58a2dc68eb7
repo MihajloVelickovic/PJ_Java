@@ -1,0 +1,3 @@
+public class Krug {
+	private double m_Radius;
+}

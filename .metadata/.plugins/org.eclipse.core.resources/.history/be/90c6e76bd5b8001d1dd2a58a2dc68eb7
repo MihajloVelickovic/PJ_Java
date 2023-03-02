@@ -1,0 +1,7 @@
+public class Krug {
+	private double m_Radius;
+	public Krug(double r) {
+		m_Radius = r;
+	}
+	
+}

@@ -1,0 +1,18 @@
+
+public class Valjak extends Krug {
+	private double m_Height;
+	
+	public Valjak() {
+		//Konstruktor nadklase, mora biti prvi poziv u funkciji;
+		super();
+	}
+	@Override
+	public double getPovrsina() {
+		
+	}
+	@Override
+	public double getObim() {
+		
+	}
+	
+}
