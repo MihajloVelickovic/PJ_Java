@@ -12,4 +12,7 @@ public class Pravougaonik implements GeometrijskaSlika{
 	public double getObim() {
 		return 2*m_A+2*m_B;
 	}
+	public void test() {
+		System.out.println("Test");
+	}
 }
