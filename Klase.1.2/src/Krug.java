@@ -1,6 +1,8 @@
 public class Krug extends GeometrijskaSlika{
 	public Krug(double r) {
-		super(r);
+		/*Poziv konstruktora natklase, 
+		 * ako postoji onda mora biti prva naredba*/
+		super(r); 
 	}
 	@Override
 	public double getPovrsina() {

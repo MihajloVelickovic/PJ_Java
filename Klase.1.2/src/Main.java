@@ -1,3 +1,7 @@
+/** @date 02/03/2023
+ * 	@week 4
+ *  @subject Klase.2
+ */
 public class Main {
 	public static void main(String[] args) {
 		/*Na pokazivace osnovne klase mogu se kaciti

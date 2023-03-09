@@ -1,3 +1,7 @@
+/** @date 02/03/2023
+ * 	@week 5
+ *  @subject Interfejsi.1
+ */
 public class Main {
 	public static void main(String[] args) {
 		/*Na pokazivace osnovne klase mogu se kaciti

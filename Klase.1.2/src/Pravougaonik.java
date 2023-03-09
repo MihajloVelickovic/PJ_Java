@@ -1,5 +1,7 @@
 public class Pravougaonik extends GeometrijskaSlika{ 
 	public Pravougaonik(double a) {
+		/*Poziv konstruktora natklase, 
+		 * ako postoji onda mora biti prva naredba*/
 		super(a);
 	}
 	@Override
