@@ -1,4 +1,4 @@
-public class Pravougaonik extends GeometrijskaSlika{
+public class Pravougaonik implements GeometrijskaSlika{
 	private double m_A, m_B;
 	public Pravougaonik(double a, double b) {
 		m_A = a;
@@ -7,5 +7,9 @@ public class Pravougaonik extends GeometrijskaSlika{
 	@Override
 	public double getPovrsina() {
 		return m_A*m_B;
+	}
+	@Override
+	public double getObim() {
+		return 2*m_A+2*m_B;
 	}
 }
